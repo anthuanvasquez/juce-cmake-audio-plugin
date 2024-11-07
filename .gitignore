@@ -1,0 +1,12 @@
+build/
+JUCE/
+Builds/
+libs/
+.DS_Store
+*.vst3
+*.component
+*.app
+*.zip
+*.tar.gz
+CMakeFiles/
+CMakeCache.txt
